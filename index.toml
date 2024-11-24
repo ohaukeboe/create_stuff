@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "#Create Stuff-0.1.0.mrpack#"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "LICENSE.md"
 hash = "cf8cf1b40bec089f3da8e0dec71538e99c9ae7b34cf53fd66acd66dac97ee9b7"
 
@@ -188,11 +184,6 @@ hash = "85a8b7a8b7edcf4956d8dfbd690ef76121766691b8e8d1b65cca1734c28b9615"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "949bd1d3a79e15a089db4ade5d63edacf53b71e1ac7978826b154f59aadf077f"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "7b54a8d6357de04ed386b629cecaa07470abe45403283f87d06a2f41bde88f31"
 metafile = true
@@ -200,11 +191,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "470e5bf7c8d228158620d00e9da85b094002cce7d4429ce1403f3829feef2ba5"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "0666cbf3a249ed8451f732e3d7138d0dc65330019496da08befd4df64c785373"
 metafile = true
 
 [[files]]
