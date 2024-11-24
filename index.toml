@@ -154,6 +154,11 @@ hash = "7bf628314bc58104a8ee91d236d39ab2b14605f2aaa4c2038ac410041df171fc"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "390bfff188701b2133dccdbe4f88a842e70349c01b7d852229e7ef972eac515e"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "73b57f14646c1b189bc46d07e7dc6537f6eb5b3846862e8c88d6e3ab92e63a73"
 metafile = true
@@ -231,6 +236,16 @@ metafile = true
 [[files]]
 file = "mods/iris-mc1.20.1-1.6.10.jar"
 hash = "20f00774c6bce6b3c9fd4d508240880a60a04a3ec987235e257f6e6b9e182514"
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "93eae4c1e9899ecd8472208d67138b7043340eccd83433dffdc0d44604f5d5c1"
+metafile = true
+
+[[files]]
+file = "mods/jeitweaker.pw.toml"
+hash = "b7154cc15808740e4040234011e888cf3d17e3c2e3919eca48a12380454efb96"
+metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
