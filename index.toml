@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "#Create Stuff-0.1.0.mrpack#"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "LICENSE.md"
 hash = "cf8cf1b40bec089f3da8e0dec71538e99c9ae7b34cf53fd66acd66dac97ee9b7"
 
