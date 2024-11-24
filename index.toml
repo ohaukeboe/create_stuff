@@ -248,6 +248,21 @@ hash = "b7154cc15808740e4040234011e888cf3d17e3c2e3919eca48a12380454efb96"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "273d6f3592a1a585ca12cefb4872dc53ba35e93de1bd1b72a1b35e3dac580917"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "f3a2939a893321067f5700c2e25c0c48fc1f9d39dd925449865c90597d65df1b"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "c9a87727563e40c631f527d3c284475288e72c3ee5b1b6f6a5f201b1776e1e5c"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "d11159f80df30571247f878dfcec328468472c7a5dbd11d3f6ab074b355d1836"
 metafile = true
