@@ -305,12 +305,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b918ebb7bd0ad42bad7f686a780161a8e185b294cb59a62c6a7a71093ed1cab9"
+hash = "bf40db13794b4204762ce0d24e95dceff163a79959c196486aefb3d9d3296e2f"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "2e5c94e4f1bdfe8c9da4e987e9b3639599591575b3dc91ed0bb120adcee0ee85"
+hash = "7e0aa0482e5ffef1c3a1d533813cd734db0b6d4ace1f83dfbaab63372236d823"
 metafile = true
 
 [[files]]
@@ -319,8 +319,9 @@ hash = "957fccf5d7bb580339b0ac2b8de2986415ef83fe297963e888e97d2063afefc3"
 metafile = true
 
 [[files]]
-file = "mods/iris-mc1.20.1-1.6.10.jar"
-hash = "20f00774c6bce6b3c9fd4d508240880a60a04a3ec987235e257f6e6b9e182514"
+file = "mods/iris.pw.toml"
+hash = "a4ead715d6d053581edbbecac7d8cdae57d941503d0ccec8aca5ef26ba3b1341"
+metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
@@ -419,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "a261f3633b1536d3432124767c62e752af855fa2a833ed29a75324ab90379d9e"
+hash = "c7a632600334f8643c3dca388a7e6b6b30f15607d21dd7cb1bad3f59a52f0f84"
 metafile = true
 
 [[files]]
@@ -434,12 +435,13 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "d22e4ecce53a5c207e7894f59ed1f5af46aa2ed8e6daa2d46b17e637371dfe71"
+hash = "1c715482d789775635bdadfd07a193c9b72474d9bbae2259e3c65c3a054edddd"
 metafile = true
 
 [[files]]
-file = "mods/sodium-fabric-mc1.20.1-0.5.3.jar"
-hash = "b10e60b8000194bc617fd2c396a8584a5cc33a3118c8b382128452c3f93f881d"
+file = "mods/sodium.pw.toml"
+hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
+metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
