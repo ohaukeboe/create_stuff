@@ -6,11 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-<<<<<<< HEAD
-hash = "d2a043467767e1a8fafeeee94a6e5b9c1a2fac8220da643e04bc42886c7bb0ba"
-=======
-hash = "6b80a8a09bca017c703ccf93b6c685489ca45652b77b658b873640919ed7a27a"
->>>>>>> c68ff21 (add jei addons)
+hash = "0fb5e789cbed7c8c2300f3889ec93eb94091e16cffeda38572f7cbdd0b942111"
 
 [versions]
 fabric = "0.16.9"
