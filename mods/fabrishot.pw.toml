@@ -1,13 +1,13 @@
 name = "Fabrishot"
-filename = "fabrishot-1.10.0.jar"
+filename = "fabrishot-1.10.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "15cd04a988726aa4f45fe59813c384329f5d8b94"
+hash = "715edb014f9c41fed4fb1c4ba32d493916f7d89a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4615543
+file-id = 4962064
 project-id = 404870
