@@ -314,6 +314,11 @@ hash = "bf40db13794b4204762ce0d24e95dceff163a79959c196486aefb3d9d3296e2f"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "2ca8784b5bbc354489ec2519492a7124c7cfc1cb4841f1fca1afd1c85c63e277"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "7e0aa0482e5ffef1c3a1d533813cd734db0b6d4ace1f83dfbaab63372236d823"
 metafile = true
@@ -371,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "7c37e08616fc1158f01cd11c086f736f7b6cc63ae64299444ebdc5be3f8d06a0"
+metafile = true
+
+[[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "cd1e54a0717ec21306365b8a87869bfad2afb694d273c83367eac9028775ae8d"
 metafile = true
 
 [[files]]
